@@ -3,5 +3,6 @@
 - 💞️ I’m looking to collaborate on translating
 
 <!---
-I'm a translator from english --> czech
+I'm a translator from english to czech XD
 --->
+**I'm a translator from english to czech** 😄
