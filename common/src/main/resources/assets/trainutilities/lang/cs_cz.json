@@ -25,8 +25,7 @@
   "block.trainutilities.door_ic2.tooltip.condition1": "Při kliknutí pravým tlačítkem s prázdnou rukou.",
   "block.trainutilities.door_ic2.tooltip.behaviour1": " Otevře menu pro _změnu_ _zvuku dveří_.",
   "block.trainutilities.door_rrx": "Dveře Desiro HC(RRX design)",
-  "block.trainutilities.door_rrx
-.tooltip.summary": " Použijte na _vlacích_ nebo _výtazích_ pro _realistické_ dveře s _realistickými zvuky_",
+  "block.trainutilities.door_rrx.tooltip.summary": " Použijte na _vlacích_ nebo _výtazích_ pro _realistické_ dveře s _realistickými zvuky_",
   "block.trainutilities.door_rrx.tooltip.condition1": "Otevře menu pro _změnu_ _zvuku dveří_.",
   "block.trainutilities.door_rrx.tooltip.behaviour1": "Otevře menu pro změnu zvuku dveří.",
   "block.trainutilities.door_flirt": "Dveře Stadler Flirt 3 XL (VRR design)",
